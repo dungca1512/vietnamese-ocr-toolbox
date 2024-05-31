@@ -14,7 +14,7 @@ torchnet
 gdown==3.13.0
 webcolors
 pandas_profiling
-torchvision==0.18.0
+torchvision
 
 opencv-python
 numpy
